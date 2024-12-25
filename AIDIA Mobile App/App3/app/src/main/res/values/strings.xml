@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">App3</string>
+    <string name="food_image">Food Image</string>
+
+        <string name="pizza">Pizza</string>
+        <string name="salads">Salads</string>
+        <string name="desserts">Desserts</string>
+        <string name="pasta">Pasta</string>
+        <string name="beverages">Beverages</string>
+        <string name="arrow_right">Right Arrow</string>
+    <string name="plus" />
+    <string name="burger" />
+    <string name="rice" />
+    <string name="noodles" />
+    <string name="dessert" />
+    <string name="Beverages" />
+    <string name="Liquor" />
+    <string name="pizza2" />
+    <string name="pizza3" />
+    <string name="pizza4" />
+    <string name="pizza5" />
+    <string name="description_of_image_button" />
+    <string name="Add_menu_item" />
+    <string name="add_menu">Add Menu</string>
+
+</resources>
